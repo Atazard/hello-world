@@ -1,2 +1,3 @@
 # hello-world
-Insert funny description here.
+
+This is a very funny description if you use your imagination. Also cats.
